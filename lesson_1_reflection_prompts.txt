@@ -1,0 +1,46 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?(显示连个版本之间的差异，如何帮你了解引入的错误)
+
+    在发生问题的代码行看到差异，可以帮助自己更快的定位问题。
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?(从长远来看，能轻松访问文件的整个历史记录将如何提高编程者的效率？)
+
+    通过工具立马可以检索出整个代码的修改历史或者是单个修改的历史，这样就不用花费太多的时间用在查找文件上。
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?(您认为手动选择何时创建提交的利弊，就像您在Git中所做的那样，VS有自动保存的版本，比如谷歌文档吗？)
+
+    在处理玩一项逻辑后，自己选择手动提交版本。
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    同时提交多个文件保存可以更有效率以及直观的查看每个版本之间的不同之处。
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?(使用版本控制，如何让你更有信心进行有可能会造成破坏的更改？)
+
+    确认没有出问题的commit，然后git checkout检出一个出现问题的版本，用git diff查看差异找出问题，这样就不用担心因
+	修改导致问题而不知道出错的地方。
+
+Now that you have your workspace set up, what do you want to try using Git for?
+（既然您已经建立了工作区，您想使用Git做什么？）
+
+    通过git来对整个代码进行管理，比如对比修改的差异来找出一些代码编写的问题以及
+	错误操作造成的代码遗漏。
+	以及大量的尝试修改代码甚至是更底层的代码，提升对代码架构的理解以及编程能力。
+	
+   git 获取彩色输出git config --global color.ui auto
+   
+   example below multiple together sense both make up photoshop chapter novel split up by involved often like ranking small Visit console program's
+shortcuts lesson prompts case global revert reset how many were compose
+compare part reposto strange which actual gives cryptic confusing downright
+bizarre fact exercise octopus detached panic sound between these pretty convenient being able table view same discard bard fetch upstream switch
+delay before prompt profile then Suppose  ran  below possible symbol token
+sign
