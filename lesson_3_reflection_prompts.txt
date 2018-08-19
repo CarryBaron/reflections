@@ -4,9 +4,9 @@ local?(何时你会想使用远程版本库，而不是将所有工作保存在�
     与其他人合作共同开发项目，给他人分享和使用。防止本地代码混乱和丢失，导致无法使用。
 
 Why might you want to always pull changes manually rather than having Git
-automatically stay up-to-date with your remote repository?
+automatically stay up-to-date with your remote repository?(为何你希望始终手动地拉取更改，而不是让 Git 自动与你的远程版本库保持同步？)
 
-    Fill in your answer here
+    避免自动同步导致发生无法解决的冲突错误，手动拉取也有着更好的灵活性可以完全按照自己想法来开发，不用担心会影响到远程仓库。
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
